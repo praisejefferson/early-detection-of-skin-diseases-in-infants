@@ -15,14 +15,18 @@ This project is focused on the early detection of common skin diseases in infant
 - **Libraries:** OpenCV, TensorFlow/Keras, Scikit-learn, NumPy
 - **Frameworks:** Flask (for the web application)
 - **Tools:** Jupyter Notebook, Git & GitHub
-🖼️ Screenshot
+
+## 🖼️ Screenshot
 Below is a preview of the web application's user interface:
+
+
+
 ![image](https://github.com/user-attachments/assets/2c56dc41-848a-4733-9a16-94b34e7531d2)
 
-📈 Project Status
+## 📈 Project Status
 This is the initial working version of the project. The detection model and interface are functional. Further improvements and enhancements are planned, including expanding the dataset and refining model accuracy.
 
-📌 Future Improvements
+## 📌 Future Improvements
 Improve accuracy with more training data
 
 Add support for more skin conditions
@@ -30,7 +34,7 @@ Add support for more skin conditions
 Integrate a mobile-friendly version
 
 Enable real-time camera input for direct image capture
-📬 Contact
+##📬 Contact
 Name: Inofe Praise
 Email: ipraise1a2a@gmail.com
 GitHub: https://github.com/praisejefferson
