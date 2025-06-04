@@ -34,7 +34,7 @@ Add support for more skin conditions
 Integrate a mobile-friendly version
 
 Enable real-time camera input for direct image capture
-##📬 Contact
+## 📬 Contact
 Name: Inofe Praise
 Email: ipraise1a2a@gmail.com
 GitHub: https://github.com/praisejefferson
